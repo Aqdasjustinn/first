@@ -1,2 +1,5 @@
 # first
-My first git repository
+My first git Repository.
+<<endl;
+Author--Aqdas
+
